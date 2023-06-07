@@ -9,8 +9,8 @@ Design and implement an intelligent battery charging algorithm in embedded C tha
 
 
 
-References:
-https://www.youtube.com/watch?v=CxC1KCoGbIM
+References: 
+Smart Phone Sensors: https://www.youtube.com/watch?v=CxC1KCoGbIM
 
 download Keil uVision from the ARM website: https://www.keil.com/download/
 
